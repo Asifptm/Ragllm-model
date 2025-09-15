@@ -1,0 +1,28 @@
+# Core
+fastapi==0.116.1
+uvicorn==0.35.0
+pydantic==2.11.7
+
+# MongoDB
+pymongo==4.14.1
+
+# Environment variables
+python-dotenv==1.1.1
+
+# OpenAI + LangChain
+openai==1.101.0
+langchain==0.3.27
+langchain-core==0.3.74
+langchain-openai==0.3.31
+langchain-community==0.3.27
+langchain-text-splitters==0.3.9
+
+# Web search
+google-search-results==2.4.2
+requests==2.32.5
+
+# AWS S3
+boto3==1.40.16
+
+# Utilities
+typing-extensions==4.14.1
